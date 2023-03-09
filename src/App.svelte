@@ -3,8 +3,6 @@
   import TaskForm from "./components/TaskForm.svelte";
   import TaskList from "./components/TaskList.svelte";
   import { tasks } from "./lib/Task";
-  import type { Task } from "./lib/Task";
-  import Footer from "./components/Footer.svelte";
   import TaskDetails from "./components/TaskDetails.svelte";
 </script>
 
